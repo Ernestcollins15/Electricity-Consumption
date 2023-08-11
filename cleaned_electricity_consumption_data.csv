@@ -1,4 +1,4 @@
-,hour,date_hour_start,solar_electricity_generation_kwh,electricity_usage_kwh ,net_electricity,month
+,hour,date_hour_start,solar_electricity_generation_kwh,electricity_usage_kwh,net_electricity,month
 0,0,2020-01-01 00:00:00,0.0,1.509849,-1.509849,1
 1,1,2020-01-01 01:00:00,0.0,1.4118587999999999,-1.4118587999999999,1
 2,2,2020-01-01 02:00:00,0.0,1.0238976,-1.0238976,1
